@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <p style="align-self: center;">Este projeto tem como objetivo implementar testes unitários em uma aplicação Node.</p>
-  <img src="img/suc.png" alt="Imagem do Projeto" width="100">
+  <img src="img/jest.png" alt="Imagem do Projeto" width="100">
 </div>
 
 ## Sumário
@@ -18,13 +18,13 @@
 ## Teste com sucesso
 
 <div align="center">
-  <img src="img/suc.png" alt="Imagem do Projeto" width="100">
+  <img src="img/suc.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Teste com Falha
 
 <div align="center">
-  <img src="img/err.png" alt="Imagem do Projeto" width="100">
+  <img src="img/err.png" alt="Imagem do Projeto" width="900">
 </div>
 
 #### OBS: Lembrando que o objetivo do nosso teste é falhar, para o teste ser completo.
@@ -45,11 +45,7 @@
 
 ## Status
 
-![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
-
 ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
-
-<!-- -->
 
 ## Descrição
 
