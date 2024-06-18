@@ -5,21 +5,29 @@
   <img src="img/jest.png" alt="Imagem do Projeto" width="100">
 </div>
 
+<br>
+<br>
+
 ## Sumário
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Status](#status)
 - [Descrição](#descrição)
-- [Funcionalidades](#funcionalidades)
 - [Explicação](#explicação)
 - [Como Usar](#como-usar)
 - [Autor](#autor)
+
+<br>
+<br>
 
 ## Teste com sucesso
 
 <div align="center">
   <img src="img/suc.png" alt="Imagem do Projeto" width="900">
 </div>
+
+<br>
+<br>
 
 ## Teste com Falha
 
@@ -29,19 +37,22 @@
 
 #### OBS: Lembrando que o objetivo do nosso teste é falhar, para o teste ser completo.
 
+<br>
+<br>
+
 ## Tecnologias Utilizadas
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/js.png" alt="Logo Linguagem" width="100"/>
+    <img src="img/js.png" alt="Logo Linguagem" width="200"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/node.png" alt="Logo Linguagem" width="100"/>
-  </div>
-  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/css.png" alt="Logo Linguagem" width="100"/>
+    <img src="img/node.png" alt="Logo Linguagem" width="300"/>
   </div>
 </div>
+
+<br>
+<br>
 
 ## Status
 
@@ -49,21 +60,43 @@
 
 ## Descrição
 
-"Breve descrição do que se trata o projeto"
-
-## Funcionalidades
-
-"O que esses codigos fazem"
+Este projeto possui dois testes, um para uma calculadora em JS e outro para um servidor Express.
+<br>
+<br>
 
 ## Explicação
 
-"Codigo do projeto"
+A calculadora em JS possui as operações básicas de matemática em funções individuas, essas que o JEST test apartir de um entrada informada.
+
+O teste de servidor express verifica se o servidor de fato esta rodando na porta selecionada (3000) isto é util pois ao longo do desenvolvimento do codigo podemos realizar esse teste primeiro, garantindo que os demais testes no código irão funcionar.
+
+<br>
+<br>
 
 ## Como Usar
 
-1.
-2.
-3.
+`1.` git clone `https://github.com/dgusfr/TDD_NodeJS.git`
+
+`2.` npm install express
+
+`3.` npm install supertest
+
+`4.` npm run test
+
+<br>
+<br>
+
+#### Isto é possivel pois no nosso `package.json` esta configurado da seguinte maneira:
+
+```
+"scripts": {
+    "test": "jest"
+  },
+
+```
+
+<br>
+<br>
 
 ## Autor
 
