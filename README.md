@@ -1,7 +1,7 @@
 # Testes unitários com Jest e Node JS
 
 <div style="display: flex; justify-content: space-between;">
-  <p style="align-self: center;">Este projeto tem como objetivo implementar testes unitários em uma aplicação Node.</p>
+  <p style="align-self: center;">Este projeto implementa testes unitários em uma aplicação Node.</p>
   <img src="img/jest.png" alt="Imagem do Projeto" width="100">
 </div>
 
