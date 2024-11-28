@@ -23,7 +23,7 @@
 ## Teste com sucesso
 
 <div align="center">
-  <img src="img/suc.png" alt="Imagem do Projeto" width="900">
+  <img src="images/suc.png" alt="Imagem do Projeto" width="900">
 </div>
 
 <br>
