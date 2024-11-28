@@ -32,7 +32,7 @@
 ## Teste com Falha
 
 <div align="center">
-  <img src="img/err.png" alt="Imagem do Projeto" width="900">
+  <img src="images/err.png" alt="Imagem do Projeto" width="900">
 </div>
 
 #### OBS: Lembrando que o objetivo do nosso teste é falhar, para o teste ser completo.
