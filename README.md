@@ -44,7 +44,7 @@
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/js.png" alt="Logo Linguagem" width="200"/>
+    <img src="images/js.png" alt="Logo Linguagem" width="200"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
     <img src="img/node.png" alt="Logo Linguagem" width="300"/>
